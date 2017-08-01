@@ -14,6 +14,9 @@ Using Pynput, we were able to have the keyboard output to any valid text field, 
 
 # Contributors
 Andrew Kang
+
 Joshua Chen
+
 Mike Bao
+
 Robert Eng
